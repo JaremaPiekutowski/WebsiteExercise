@@ -6,7 +6,7 @@ The head  - <head></head>
     Info for search engines  - name="description", name="keywords"
     How do display the page  - name="viewport"
     The page title  - <title></title>
-The body  - <body></body>
+The body, CSS inline  - <body style=></body>
     Center the text  (deprecated!)
     Table with cellspacing 20  - <table cellspacing=></table>
     Table body  - <tbody></tbody>
