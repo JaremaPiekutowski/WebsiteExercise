@@ -1,0 +1,34 @@
+HTML documentation
+Boilerplate
+The head  - <head></head>
+    The meta information  - <meta></meta>
+    Encoding system  - charset=
+    Info for search engines  - name="description", name="keywords"
+    How do display the page  - name="viewport"
+    The page title  - <title></title>
+The body  - <body></body>
+    Center the text  (deprecated!)
+    Table with cellspacing 20  - <table cellspacing=></table>
+    Table body  - <tbody></tbody>
+    Table row  - <tr></tr>
+    Table data  - <td></td>
+    Image + alternative text + size <img src=>
+    Big heading  - <h1></h1>
+    Smaller headings  - <h2></h2>
+    Anchor tag with a hyperlink  - <a href=></a>
+    Horizontal line  - <hr>
+    Line break  - <br>
+    Paragraph  - <p></p>
+    Emphasize and italicize  - <em></em>
+    Emphasize and bolden  - <strong></strong>
+    An unordered list  - <ul><li></li></ul>
+    An ordered list  - <ol><li></li></ol>
+    An unordered list nested within an ordered list  - <ol><li><ul></ul></li></ol>
+    A table with a border   - <table border=></table border>
+    A table head  - <thead></thead>
+    A table head data  - <th></th>
+    Table foot  - <tfoot></tfoot>
+    Heading 2 with style (color) and emoji  - <h2 style:></h2>
+    Horizontal red line of size 3, no shade (HTML attributes)  - <hr color= size= noshade>
+
+
